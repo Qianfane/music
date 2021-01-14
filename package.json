@@ -1,0 +1,17 @@
+{
+  "name": "q_yunyinyue",
+  "version": "1.0.0",
+  "main": "app.js",
+  "dependencies": {
+    "_pubsub-js@1.9.1@pubsub-js": "^1.9.1",
+    "moment": "^2.29.1",
+    "pubsub-js": "^1.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
